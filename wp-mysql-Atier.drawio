@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T07:06:02.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.8" etag="aNtW25R0vw2UF0eUL9ch" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T07:26:25.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lsimbBhTDNT5m_uAxpjj" version="24.0.8" type="github">
   <diagram name="Page-1" id="QhATbP6DpcFWqsjCHQCg">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-FZpWcOJbV_yvdeyo6DN-1" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="540" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-FZpWcOJbV_yvdeyo6DN-2" value="EC2" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="470" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-FZpWcOJbV_yvdeyo6DN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-FZpWcOJbV_yvdeyo6DN-3" target="-FZpWcOJbV_yvdeyo6DN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FZpWcOJbV_yvdeyo6DN-3" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.wordpress_2;fillColor=#35E2EE;gradientColor=#0E4D99" vertex="1" parent="1">
+          <mxGeometry x="240" y="329" width="102.4" height="102.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-FZpWcOJbV_yvdeyo6DN-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" vertex="1" parent="1">
+          <mxGeometry x="480" y="336" width="88" height="88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
