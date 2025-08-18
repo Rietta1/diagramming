@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="sr5t4fv4FCllP_WT2feZ">
-    <mxGraphModel dx="2153" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,8 +181,8 @@
         <mxCell id="tWYqNwP9_KPiIrIVjZ15-68" value="DEVS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" parent="1" vertex="1">
           <mxGeometry x="130" y="-110" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tWYqNwP9_KPiIrIVjZ15-80" value="React-App - s3 Bucket (web tier)&lt;br&gt;&lt;br&gt;&lt;br&gt;API-gateway - Public(over the internet)&lt;div&gt;Backend Spring App - Internal ( behind api-Gateway)&lt;/div&gt;&lt;div&gt;Redis - Private (within the vpc)&lt;/div&gt;&lt;div&gt;Discovery Service - Private (within the vpc)&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="650" width="350" height="150" as="geometry" />
+        <mxCell id="tWYqNwP9_KPiIrIVjZ15-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;React-App - s3 Bucket (web tier)&lt;br&gt;&lt;br&gt;&lt;br&gt;API-gateway - Public(over the internet)&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Backend Spring App - Internal ( behind api-Gateway)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Redis - Private (within the vpc)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Discovery Service - Private (within the vpc)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="665" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tWYqNwP9_KPiIrIVjZ15-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;" parent="1" source="tWYqNwP9_KPiIrIVjZ15-29" target="tWYqNwP9_KPiIrIVjZ15-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -190,11 +190,11 @@
         <mxCell id="7XpoOyvBtXWNXjfCPLaB-1" value="Internet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-260" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jV-MoymOL_SAERLF9e4c-1" value="PRICING MONTHLY&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jV-MoymOL_SAERLF9e4c-1" value="PRICING MONTHLY&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="670" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jV-MoymOL_SAERLF9e4c-2" value="&lt;div&gt;EC2 Instance t3a meduim =&amp;nbsp;&lt;br&gt;Cloudfront =&amp;nbsp;1,024 GB/month are free&lt;br&gt;s3 bucket = 5gb free /&amp;nbsp;First 50 TB / Month, $0.023 per GB&lt;br&gt;rds sql - db.t4g.micro - 20gb =&amp;nbsp;12.00 USD -&amp;nbsp;2.30 USD = 15 USD&lt;br&gt;Elastic IP&amp;nbsp;0.005 per hour = 4 USD&lt;br&gt;VPC = resources are free&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="690" width="570" height="110" as="geometry" />
+        <mxCell id="jV-MoymOL_SAERLF9e4c-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EC2 Instance t3a meduim =&amp;nbsp;&lt;br&gt;Cloudfront =&amp;nbsp;1,024 GB/month are free&lt;br&gt;s3 bucket = 5gb free /&amp;nbsp;First 50 TB per month = $0.023 per GB&lt;br&gt;rds sql - db.t4g.micro - 20gb =&amp;nbsp;12.00 USD -&amp;nbsp;2.30 USD = 15 USD&lt;br&gt;Elastic IP&amp;nbsp;0.005 per hour = 4 USD&lt;br&gt;VPC = resources are free&lt;br&gt;VPC endpoint for s3 = free&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="690" width="570" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
