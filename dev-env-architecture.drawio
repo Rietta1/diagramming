@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="sr5t4fv4FCllP_WT2feZ">
-    <mxGraphModel dx="1594" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2192" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
         <mxCell id="tWYqNwP9_KPiIrIVjZ15-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="tWYqNwP9_KPiIrIVjZ15-2" source="tWYqNwP9_KPiIrIVjZ15-9" target="tWYqNwP9_KPiIrIVjZ15-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jV-MoymOL_SAERLF9e4c-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="tWYqNwP9_KPiIrIVjZ15-2" source="tWYqNwP9_KPiIrIVjZ15-42" target="tWYqNwP9_KPiIrIVjZ15-27">
+        <mxCell id="jV-MoymOL_SAERLF9e4c-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" parent="tWYqNwP9_KPiIrIVjZ15-2" source="tWYqNwP9_KPiIrIVjZ15-42" target="tWYqNwP9_KPiIrIVjZ15-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="220" />
@@ -159,7 +159,7 @@
         <mxCell id="tWYqNwP9_KPiIrIVjZ15-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;" parent="tWYqNwP9_KPiIrIVjZ15-1" source="tWYqNwP9_KPiIrIVjZ15-29" target="tWYqNwP9_KPiIrIVjZ15-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jV-MoymOL_SAERLF9e4c-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="tWYqNwP9_KPiIrIVjZ15-1" source="tWYqNwP9_KPiIrIVjZ15-26" target="tWYqNwP9_KPiIrIVjZ15-28">
+        <mxCell id="jV-MoymOL_SAERLF9e4c-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="tWYqNwP9_KPiIrIVjZ15-1" source="tWYqNwP9_KPiIrIVjZ15-26" target="tWYqNwP9_KPiIrIVjZ15-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tWYqNwP9_KPiIrIVjZ15-22" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_alt22;" parent="1" vertex="1">
@@ -180,10 +180,10 @@
         <mxCell id="7XpoOyvBtXWNXjfCPLaB-1" value="Internet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-455" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jV-MoymOL_SAERLF9e4c-1" value="PRICING MONTHLY&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jV-MoymOL_SAERLF9e4c-1" value="PRICING MONTHLY&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="670" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jV-MoymOL_SAERLF9e4c-2" value="&lt;div&gt;EC2 Instance t3a meduim =&amp;nbsp;&lt;br&gt;Cloudfront =&amp;nbsp;1,024 GB/month are free&lt;br&gt;s3 bucket = 5gb free /&amp;nbsp;First 50 TB / Month, $0.023 per GB&lt;br&gt;rds sql - db.t4g.micro - 20gb =&amp;nbsp;12.00 USD -&amp;nbsp;2.30 USD = 15 USD&lt;br&gt;Elastic IP&amp;nbsp;0.005 per hour = 4 USD&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jV-MoymOL_SAERLF9e4c-2" value="&lt;div&gt;EC2 Instance t3a meduim = 30usd&lt;br&gt;Cloudfront =&amp;nbsp;1,024 GB/month are free&lt;br&gt;s3 bucket = 5gb free /&amp;nbsp;First 50 TB / Month, $0.023 per GB&lt;br&gt;rds sql - db.t4g.micro - 20gb =&amp;nbsp;12.00 USD -&amp;nbsp;2.30 USD = 15 USD&lt;br&gt;Elastic IP&amp;nbsp;0.005 per hour = 4 USD&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="690" width="570" height="110" as="geometry" />
         </mxCell>
       </root>
